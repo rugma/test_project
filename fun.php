@@ -1,4 +1,5 @@
 <?php
+//test rugmamanas
  function encryptValue($strI){
 	$strI = $strI."bee";
 	$strO = "";
